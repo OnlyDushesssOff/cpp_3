@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/s23380405@unn.global/Projects/cpp_3/build",
+  "command": "/usr/bin/g++-12    -std=c++17 -g -o CMakeFiles/main.dir/main.cpp.o -c /home/s23380405@unn.global/Projects/cpp_3/main.cpp",
+  "file": "/home/s23380405@unn.global/Projects/cpp_3/main.cpp"
+},
+{
+  "directory": "/home/s23380405@unn.global/Projects/cpp_3/build",
+  "command": "/usr/bin/g++-12    -std=c++17 -g -o CMakeFiles/main.dir/Apple.cpp.o -c /home/s23380405@unn.global/Projects/cpp_3/Apple.cpp",
+  "file": "/home/s23380405@unn.global/Projects/cpp_3/Apple.cpp"
+},
+{
+  "directory": "/home/s23380405@unn.global/Projects/cpp_3/build",
+  "command": "/usr/bin/g++-12    -std=c++17 -g -o CMakeFiles/main.dir/Eater.cpp.o -c /home/s23380405@unn.global/Projects/cpp_3/Eater.cpp",
+  "file": "/home/s23380405@unn.global/Projects/cpp_3/Eater.cpp"
+}
+]
